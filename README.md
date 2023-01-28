@@ -1,0 +1,2 @@
+# Weather App
+ This weather app project is built using Kotlin, the modern programming language for Android development. The app utilizes OpenWeatherMap API to provide current weather information for any location. It features an intuitive user interface, with detailed weather data including temperature, humidity, and wind speed. This project is a great starting point for anyone looking to learn Kotlin and build a functional weather app.
